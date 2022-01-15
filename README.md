@@ -12,7 +12,7 @@ Automatizar os processos de navegação de sites.
 - [x] Criar cenários de Login e Logout
 - [x] Criar cenários de produtos
 - [x] Criar cenários de carrinho
-- [ ] Criar cenários de checkout
+- [x] Criar cenários de checkout
 
 ## Desafio do Open Trivia Database
 
