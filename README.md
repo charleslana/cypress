@@ -27,6 +27,6 @@ Em breve...
 ## Teste do Sauce Demo
 
 ![Login Screenshot](https://i.imgur.com/lCoWLPo.gif)
+![Products Screenshot](https://i.imgur.com/A1GOCUD.gif)
 ![Cart Screenshot](https://s10.gifyu.com/images/cart.spec.ts.gif)
 ![Checkout Screenshot](https://s10.gifyu.com/images/checkout.spec.ts.gif)
-![Products Screenshot](https://i.imgur.com/A1GOCUD.gif)
